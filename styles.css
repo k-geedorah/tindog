@@ -1,0 +1,193 @@
+#title {
+    background-color: #ff4c68;
+    padding-bottom: 0;
+    position: relative;
+}
+
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+
+
+.brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+.tindog {
+    clear: right;
+    width: 60%;
+    transform: rotate(30deg);
+    position: absolute;
+    right: 30%;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light", sans-serif;
+}
+
+.btn {
+    margin: 5% 3% 5% 0;
+}
+
+#features {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #fff;
+    z-index: 1;
+    position: relative;
+}
+
+.fa-check-circle {
+    color: #ef8172;
+}
+
+.fa-bullseye {
+    color: #ef8172;
+}
+
+.fa-heart {
+    color: #ef8172;
+}
+
+.fa-check-circle:hover {
+    color: #ff4c68;
+}
+
+.fa-bullseye:hover {
+    color: #ff4c68;
+}
+
+.fa-heart:hover {
+    color: #ff4c68;
+}
+
+
+
+.feats {
+    color: #8f8f8f;
+}
+
+#testimonials {
+    background-color: #ef8172;
+    color: white;
+    text-align: center;
+}
+
+
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 10%;
+}
+
+.press-image {
+    width: 20%;
+    padding: 3%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricecol {
+    padding: 3% 2%;
+}
+
+@media (max-width:1028px) {
+    .tindog {
+        transform: rotate(0deg);
+        position: static;
+    }
+}
+
+#cta {
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.call {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    color: #fff;
+}
+
+#footer {
+    padding: 7% 15%;
+    background-color: #fff;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.icons {
+    margin: 20px 5px 20px 5px;
+}
+
+.cright {
+    color: #8f8f8f;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* general elements styling */
+
+body {
+    font-family: "Montserrat";
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding-top: 5%;
+}
+
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+/* headers */
+/* i give up, i'm gonna let the code be, it's working */
